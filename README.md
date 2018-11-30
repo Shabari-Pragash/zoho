@@ -6,4 +6,4 @@ this repository contains python files used in zoho sync
 
 #lsp
 
-shabari pragash
+shabari pragash .l
